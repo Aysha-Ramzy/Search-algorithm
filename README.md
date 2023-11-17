@@ -1,1 +1,1 @@
-# Search-algorithm
+# Search-algorithm for bidirectional search
